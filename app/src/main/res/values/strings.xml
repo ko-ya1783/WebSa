@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebAPIを利用した商品検索</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">バーコード読取</string>
+    <string name="btn2">商品検索</string>
+</resources>
